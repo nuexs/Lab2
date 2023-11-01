@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="apport-gtk.desktop" score="0.125" last-seen="1697543093"/>
+    <application id="firefox_firefox.desktop" score="0.875" last-seen="1697004658"/>
+    <application id="gnome-initial-setup.desktop" score="0.125" last-seen="1697004508"/>
+    <application id="org.gnome.Terminal.desktop" score="24568.875" last-seen="1698843624"/>
+    <application id="update-manager.desktop" score="0.75" last-seen="1698832849"/>
+  </context>
+</application-state>

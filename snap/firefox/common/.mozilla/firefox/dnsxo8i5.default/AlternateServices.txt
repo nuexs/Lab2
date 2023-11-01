@@ -1,0 +1,3 @@
+https:push.services.mozilla.com:443:.::3	0	19641	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1699596620:h3:y:1697004606:n::|n:y:
+https:accounts.firefox.com:443:.:^partitionKey=%28about%2Cabout.ef2a7dd5-93bc-417f-a698-142c3116864f.mozilla%29:3	0	19641	https:accounts.firefox.com:443:accounts.firefox.com:443::n:1699596616:h3:y:1697004606:n:^partitionKey=%28about%2Cabout.ef2a7dd5-93bc-417f-a698-142c3116864f.mozilla%29:|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	0	19641	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1699596638:h3:y:1697004606:n::|n:y:

@@ -1,0 +1,13 @@
+Desktop
+Documents
+Downloads
+list.txt
+Music
+Pictures
+Public
+snap
+Templates
+testfile
+test.txt
+text.txt
+Videos

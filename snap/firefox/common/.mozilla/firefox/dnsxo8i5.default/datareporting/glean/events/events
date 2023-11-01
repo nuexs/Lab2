@@ -1,0 +1,9 @@
+{"timestamp":2405057,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":2416937,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"csv-import-release-rollout","branch":"enable-csv-import","enrollment_id":"d789fefd-3b60-4f99-99c5-c0d5d09adb6b","experiment_type":"rollout"}}
+{"timestamp":2417524,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"opaque-response-blocking-orb-staged-release-rollout","experiment_type":"rollout","branch":"rollout-single-branch","enrollment_id":"c612d481-476b-4bbc-a3ea-4ea4b9bae351"}}
+{"timestamp":2417672,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"48f1aad1-d7fa-4698-be0d-40b581e4dfca","experiment_type":"rollout","branch":"control","experiment":"serp-ad-telemetry-rollout"}}
+{"timestamp":2417724,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"upgrade-spotlight-rollout","experiment_type":"rollout","enrollment_id":"5584a509-fc1b-4da6-9975-e3c6ae3ff738","branch":"treatment"}}
+{"timestamp":2417728,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":2417728,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy"}}
+{"timestamp":2435433,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":2435433,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","feature":"accessibilityCache"}}
